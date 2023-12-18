@@ -1,2 +1,2 @@
-# neelima_SQL
+# Neelima_SQL
 My SQL projects
